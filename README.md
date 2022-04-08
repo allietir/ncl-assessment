@@ -4,6 +4,8 @@ This is my NCL Technical Assessment submission. My focus for this submission was
 
 I decided to write a less formal "diary-style" documentation so that you can see my thought processes on the decisions I made. There is some overall information here in the README as well as some comments in each file.
 
+This project was written in Flutter 2.10.4 and tested on a Pixel_3a_XL android emulator.
+
 ## Project Requirements
 The UI should have three buttons:
 - SKY
